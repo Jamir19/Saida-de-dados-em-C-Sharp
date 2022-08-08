@@ -1,6 +1,6 @@
 using System;
 using System.Globalization;
-              namespace Saida de dados C# {
+              namespace saida {
                       class Program {
                     static void Main(string[] args) {
 
